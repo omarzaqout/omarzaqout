@@ -1,53 +1,63 @@
 <div align="center">
 
-# Hi there 👋 I'm Omar Zaqout
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00cc99&height=180&section=header&text=Omar%20Zaqout&fontSize=45&fontColor=ffffff" alt="header"/>
 
-**Computer Engineer from Palestine 🇵🇸**  
-Passionate about web and mobile development with modern technologies.
+### 👋 Hi there, I'm **Omar Zaqout**
+**Computer Engineer from Palestine 🇵🇸**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--zaqout-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-zaqout/)
+<br/>
+
+<a href="https://www.linkedin.com/in/omar-zaqout/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-omar--zaqout-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=omarzaqout&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<br/><br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Computer Engineer focused on building efficient and scalable web & mobile apps.
-- 🎯 Always learning and expanding my technical toolkit.
-- ✅ Enjoy building real-world solutions and sharing knowledge with the tech community.
+- 💻 Computer Engineer passionate about **web & mobile development**
+- 🚀 Always eager to learn and explore new technologies
+- 🤝 Open to collaboration and contributing to open-source
+- 🌱 Currently growing my skills in AI and advanced frontend frameworks
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,dart,flutter,java,cpp,c,python" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-⭐ Check out my pinned repositories above for my main projects.  
+📌 Check out my **pinned repositories** above for my main projects.  
 Each project includes a detailed README with description and usage instructions.
 
 ---
 
 ## 🏅 Certifications
 
-- **Computer Vision Certificate**
-- **Flutter Certificate**
+- 🎓 **Computer Vision Certificate**
+- 🎓 **Flutter Certificate**
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/omar-zaqout/)
+<a href="https://www.linkedin.com/in/omar-zaqout/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-omar--zaqout-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+---
+
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarzaqout&show_icons=true&theme=tokyonight&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarzaqout&layout=compact&theme=tokyonight)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00cc99&height=120&section=footer"/>
 
 </div>
